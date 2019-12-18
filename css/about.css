@@ -1,0 +1,35 @@
+.title{
+    font-family: per;
+    color: black;
+}
+.logo{
+    font-family: vito;
+    font-weight: bold;
+    font-size: 30px;
+}
+.lead{
+    font-family: fra;
+}
+.nav_list{
+    font-family: vito;
+    font-size: 20px;
+    font-weight: bold;
+}
+.nav_list:hover{
+    border-top: 4px solid #ffffff;
+    border-bottom: 4px solid #ffffff;
+    border-color: aqua;
+    height: 50px;
+}
+
+.author{
+    font-family: vito;
+    font-size: 20px;
+    color: white;
+    margin-top: 10px;
+}
+.div_icon{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    margin-bottom: 5px;
+}
