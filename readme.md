@@ -1,4 +1,10 @@
---Images was taken from wallpaperhd.com
+--Images was taken from wallpaperHD.com:
+x-special/nautilus-clipboard
+copy
+file:///home/darewood/Desktop/project/ScreenCast/slide_1.jpg
+
+
+
 
 Fonts:
 	AboveDem;

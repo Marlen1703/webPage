@@ -59,3 +59,8 @@ div .icons{
     background-color: grey;
     width: max-content;
 }
+.iframe{
+    width: 600px;
+    height:450px;
+
+}
