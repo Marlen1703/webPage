@@ -1,18 +1,23 @@
 --Images was taken from wallpaperHD.com:
-x-special/nautilus-clipboard
-copy
-file:///home/darewood/Desktop/project/ScreenCast/slide_1.jpg
+![](img/carusel_1.jpg)
+
+![](img/carusel_2.jpeg)
+
+![](img/carusel_3.jpeg)
+![](img/galery_1.jpg)
+![](img/galery_2.jpg)
+![](img/galery_3.jpg)
 
 
 
 
-Fonts:
+--Fonts:
 	AboveDem;
 	FrancoisOn;
 	PermanentMarker.
 
 
-adaptive and cross-browser landing
+--adaptive and cross-browser landing
 
 Nice looking fonts and colors to reading
 
@@ -20,7 +25,7 @@ Nice looking fonts and colors to reading
 
 
  
-Icons:
+--Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
 
 	Other:
