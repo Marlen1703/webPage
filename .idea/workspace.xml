@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34f0fbe3-b6f9-4323-9b89-669d6ead9492" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/galery.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/galery.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/info.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/info.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/sub.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/sub.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/galery.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/galery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,14 +44,14 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/icons" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$/img/img" />
       <recent name="$PROJECT_DIR$/img" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img/icons" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -92,7 +85,7 @@
       <workItem from="1576668515291" duration="19448000" />
       <workItem from="1576693730744" duration="48000" />
       <workItem from="1576693845864" duration="273000" />
-      <workItem from="1576741316019" duration="2505000" />
+      <workItem from="1576741316019" duration="9569000" />
     </task>
     <servers />
   </component>
