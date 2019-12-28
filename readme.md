@@ -7,14 +7,13 @@ https://marlen1703.github.io/webPage.io/index.html
 
 
 --Images was taken from wallpaperHD.com:
-![](img/carusel_1.jpg)
+![](ScreenCast/slide_1.jpg)
 
-![](img/carusel_2.jpeg)
+![](ScreenCast/slide_2.jpg)
 
-![](img/carusel_3.jpeg)
-![](img/galery_1.jpg)
-![](img/galery_2.jpg)
-![](img/galery_3.jpg)
+![](ScreenCast/slide_3.jpg)
+![](ScreenCast/slide_4.jpg)
+
 
 
 
